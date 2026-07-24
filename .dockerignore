@@ -1,3 +1,6 @@
+.git
+.gitignore
+
 .DS_Store
 Thumbs.db
 
@@ -25,6 +28,6 @@ htmlcov/
 .vscode/
 .idea/
 
+flvcache/
 cookies.txt
 replace-in-swf-*.jar
-flvcache/
